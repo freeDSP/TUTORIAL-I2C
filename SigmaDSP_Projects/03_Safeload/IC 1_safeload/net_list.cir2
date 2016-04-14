@@ -1,0 +1,4 @@
+0 ICSigma100In1 O_C10_A0_P1_out Link0 O_C10_A0_P2_out Link1
+1 EQ1940Dual1 I_C0_A0_P1_in Link0 I_C0_A0_P2_in Link1 O_C0_A0_P3_out Link2 O_C0_A0_P4_out Link3
+2 ICSigma100Out1 I_C21_A0_P1_in Link2
+3 ICSigma100Out2 I_C23_A0_P1_in Link3

@@ -1,0 +1,7 @@
+0 ICSigma100In1 O_C21_A0_P1_out Link1 O_C21_A0_P2_out Link3
+1 DCInpAlg1 O_C52_A0_P1_out Link4
+2 MonoRunAvgDetectAlg1 I_C16_A0_P1_in Link1 O_C16_A0_P2_out Link0
+3 MonoRunAvgDetectAlg2 I_C44_A0_P1_in Link3 O_C44_A0_P2_out Link2
+4 ReadBackAlg3 I_C49_A0_P1_in Link4
+5 ReadBackAlg1 I_C0_A0_P1_in Link0
+6 ReadBackAlg2 I_C35_A0_P1_in Link2

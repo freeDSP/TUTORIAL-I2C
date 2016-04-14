@@ -1,0 +1,7 @@
+0 ICSigma100In1 O_C10_A0_P1_out Link4 O_C10_A0_P2_out Link5
+1 CrossoverFilter2WayAlgDP1 I_C0_A0_P1_in Link4 O_C0_A0_P2_out Link0 O_C0_A0_P3_out Link1
+2 CrossoverFilter2WayAlgDP2 I_C0_A1_P1_in Link5 O_C0_A1_P2_out Link2 O_C0_A1_P3_out Link3
+3 ICSigma100Out1 I_C21_A0_P1_in Link0
+4 ICSigma100Out2 I_C23_A0_P1_in Link1
+5 ICSigma100Out4 I_C27_A0_P1_in Link2
+6 ICSigma100Out3 I_C25_A0_P1_in Link3
