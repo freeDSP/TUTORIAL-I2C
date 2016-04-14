@@ -1,4 +1,4 @@
-# freeUSBi
+# Serial communication with the freeDSP
 
 Files and libraries bundled with the getting started guide "Serial communication with the freeDSP“. Please refer to the document for more information. You can find it here: <a href=„https://docs.google.com/document/d/19Qx6xHxqvXIsfVEzXksVx0yJS99t_aFtP_f9C1I3j-c/edit?usp=sharing“>https://docs.google.com/document/d/19Qx6xHxqvXIsfVEzXksVx0yJS99t_aFtP_f9C1I3j-c/edit?usp=sharing</a>.
 
